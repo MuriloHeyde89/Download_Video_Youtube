@@ -12,7 +12,7 @@ def baixar():
 
     primeira_tela.lineEdit.setText("")
 
-    primeira_tela.label_2.setText('CONCLUIDO!')
+    primeira_tela.label_2.setText('DOWNLOAD REALIZADO!')
 
 aplicativo = QtWidgets.QApplication([])
 primeira_tela = uic.loadUi("tela.ui")

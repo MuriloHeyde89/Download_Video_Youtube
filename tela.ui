@@ -95,7 +95,7 @@ border-color: black;</string>
      <string notr="true">color: rgb(255, 0, 0);</string>
     </property>
     <property name="text">
-     <string>Link video do Youtube</string>
+     <string>Link URL do Youtube</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
